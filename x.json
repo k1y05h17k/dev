@@ -1,0 +1,448 @@
+{
+    "hits" : {
+      "hits" : [ {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+15550078306",
+          "_creationUser" : {
+            "_id" : "639cc1b75bffe0728ba5a500",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "2a003e6c48f7fdf60673b49bbfd245a7",
+          "_lastUpdateUser" : {
+            "_id" : "639cc1b75bffe0728ba5a500",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "d8f70d09f46979ac607134edc86d6d59",
+          "_creationDate" : "2023-07-26T18:28:21.777Z",
+          "corporateAccount" : {
+            "_id" : "64c164b21de54e2061d6c735",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : null,
+          "lastReceivedMessageDate" : null,
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-07-26T18:28:21.777Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64c165c5da557c2b7659997e",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "63dd6cd87310c1338cc13235",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "processing"
+        },
+        "_id" : "64c165c5da557c2b7659997e",
+        "sort" : [ "IBCMEDChat", "+15550078306", "+15550078306" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+5551985199208",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "136e7aaf9419840cd588abe1d68b5a92",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-10-31T17:51:06.746Z",
+          "corporateAccount" : {
+            "_id" : "64c164b21de54e2061d6c735",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-01T12:22:09.296Z",
+          "lastReceivedMessageDate" : "2023-11-01T12:02:04.726Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-01T12:22:09.298Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "65413e8a58bf8906005fb07b",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "64428d03975cc648d4b9adce",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "65413e8a58bf8906005fb07b",
+        "sort" : [ "IBCMEDChat", "+15550078306", "Darlan Magnus" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+5551981660933",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "7103a4f39c06a9c2711d098055f6213a",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-09-26T18:29:49.219Z",
+          "corporateAccount" : {
+            "_id" : "64c164b21de54e2061d6c735",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-24T20:23:51.700Z",
+          "lastReceivedMessageDate" : "2023-11-24T20:23:44.482Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-24T20:23:51.701Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6513231d32adfc6dc0d4c4ed",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "63dd6c402bb3b6269dd0e364",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "6513231d32adfc6dc0d4c4ed",
+        "sort" : [ "IBCMEDChat", "+15550078306", "Raul de Oliveira Duval" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555181565259",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "0f0b89473dab296f3b858bb8db91aa15",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-22T12:50:54.999Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : null,
+          "lastReceivedMessageDate" : null,
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-22T12:50:54.999Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "655df92e0fe8a5044d12fe94",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "655df92e0fe8a5044d12d9c9",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "processing"
+        },
+        "_id" : "655df92e0fe8a5044d12fe94",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "+555181565259" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555185199208",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "6ce507679adaed2d35e2c26c12605d98",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-27T12:40:26.013Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-27T13:47:02.835Z",
+          "lastReceivedMessageDate" : "2023-11-27T18:16:33.386Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-27T18:16:33.388Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "65648e3ae6bb527965417448",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "64428d03975cc648d4b9adce",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "65648e3ae6bb527965417448",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "Darlan Magnus" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555195486030",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "c259a89874a5980323dcbdf133afb5a9",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-23T18:45:58.134Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-23T18:47:43.336Z",
+          "lastReceivedMessageDate" : "2023-11-23T18:48:03.344Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-23T18:48:03.346Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "655f9de65c31216bad19ba7c",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "644fc2c4f7c2ac02bb287684",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "655f9de65c31216bad19ba7c",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "Gerson Bianco" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555192729644",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "9a940338bd397589147d495664111d6c",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-28T19:17:06.243Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-28T19:17:23.771Z",
+          "lastReceivedMessageDate" : "2023-11-28T19:17:07.275Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-28T19:17:23.773Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "65663cb27c4abd5f598eda10",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "65663cb17c4abd5f598ec907",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "65663cb27c4abd5f598eda10",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "JR" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555180459590",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "99623e28439f19f9e5bf95fb9a37ad01",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-23T19:31:54.789Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-23T19:48:35.777Z",
+          "lastReceivedMessageDate" : "2023-11-23T19:48:30.042Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-23T19:48:35.779Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "655fa8aa5c31216bad4df20f",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "655fa8a95c31216bad4d9e17",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "655fa8aa5c31216bad4df20f",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "Pamela Carol Gawlinski Cunha" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555181660933",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "24731b240351036699a129171c775a93",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-22T12:50:33.851Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-23T18:09:19.658Z",
+          "lastReceivedMessageDate" : "2023-11-23T18:08:59.021Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-23T18:09:19.659Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "655df9190fe8a5044d104a2a",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "63dd6c402bb3b6269dd0e364",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "655df9190fe8a5044d104a2a",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "Raul de Oliveira Duval" ],
+        "_score" : null,
+        "fields" : null
+      }, {
+        "_esSource" : {
+          "_concreteClassId" : "5e7b78be0fc226730733d2aa"
+        },
+        "_type" : "_doc",
+        "_source" : {
+          "identifier" : "+555192389739",
+          "_creationUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_revision" : "591c2c6a6c50ca772acf98af39bcaa6e",
+          "_lastUpdateUser" : {
+            "_id" : "613117d203a41c1899dca3dc",
+            "_classId" : "000000000000000000000002"
+          },
+          "_classRevision" : "7c494eea02c02e656b289bf7a49c75b0",
+          "_creationDate" : "2023-11-28T19:32:33.046Z",
+          "corporateAccount" : {
+            "_id" : "655df6e4fb7e5603b6899f4b",
+            "_classId" : "5eb003ca947088153f2e593b"
+          },
+          "lastSentMessageDate" : "2023-11-28T19:37:37.810Z",
+          "lastReceivedMessageDate" : "2023-11-28T19:38:00.036Z",
+          "_publishedObject" : null,
+          "_lastUpdateDate" : "2023-11-28T19:38:00.038Z",
+          "_protected" : false,
+          "_class" : {
+            "_id" : "5e7b78be0fc226730733d2aa",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "656640517c4abd5f59ce6842",
+          "additionalData" : null,
+          "customer" : {
+            "_id" : "656640507c4abd5f59ce55f5",
+            "_classId" : "59136a2c116a1f0f8819ecbb"
+          },
+          "status" : "valid"
+        },
+        "_id" : "656640517c4abd5f59ce6842",
+        "sort" : [ "IBCMEDTesteChat", "+555181565259", "Rejane Soares" ],
+        "_score" : null,
+        "fields" : null
+      } ],
+      "total" : 19,
+      "max_score" : null
+    },
+    "_shards" : {
+      "total" : 1,
+      "failed" : 0,
+      "successful" : 1,
+      "skipped" : 0
+    },
+    "took" : 0,
+    "timed_out" : false,
+    "error" : null,
+    "aggregations" : null,
+    "status" : null
+  }

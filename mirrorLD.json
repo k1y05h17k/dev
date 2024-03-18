@@ -1,0 +1,9 @@
+{
+    "id":"<idTurma>",
+    "email":"<email>",
+    "userName":"<userName>",
+    "password":"<password>",
+    "firstName":"<firstName>",
+    "lastName":"<lastName>",
+    "licenca":"<licenca>"
+}

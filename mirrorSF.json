@@ -1,0 +1,12 @@
+{
+    "contrato": {
+        "opportunityId":"<opportunityId>",
+        "stageName":"<stageName>",
+        "curso": "<curso>",
+        "turma": "<turma>",
+        "dataRealizacaoDaVenda": "<dataRealizacaoDaVenda>",
+        "valorTotal": "<valorTotal>",
+        "totalDeEntradas":"<totalDeEntradas>",
+        "totalDeMensalidades":"<totalDeMensalidades>"   
+    }
+}

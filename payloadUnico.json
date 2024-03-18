@@ -1,0 +1,5311 @@
+[ [ {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774322,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T17:58:21.103Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T17:58:27.372Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T17:58:21.105Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476393db67f0f3535b48c57",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 588.36,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763943d5ade442a20d29c8",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763943d5ade442a20d2e10",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763943d5ade442a20d32fe",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "8cf0aa1bb1e9c02f4f65723ee959eb36",
+      "business" : [ {
+        "_id" : "6476393cb67f0f3535b47a53",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T17:58:21.137Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 588.36,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476393db67f0f3535b496e5",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476393db67f0f3535b48c58",
+        "value" : 588.36,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476393db67f0f3535b4943d",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774323,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T17:58:21.103Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T17:58:27.338Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T17:58:21.218Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476393db67f0f3535b4a43a",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 103.83,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763943d5ade442a20d1fd9",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763943d5ade442a20d22c4",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763943d5ade442a20d2a0d",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "287f5e17f6acf30dc6db4753bf4f4bbe",
+      "business" : [ {
+        "_id" : "6476393cb67f0f3535b47a53",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T17:58:21.235Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 103.83,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476393db67f0f3535b4a8ac",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476393db67f0f3535b4a43b",
+        "value" : 103.83,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476393db67f0f3535b4a6df",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774327,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T18:18:47.826Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T18:18:53.447Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T18:18:47.828Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64763e07838a19582c49e83c",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 588.36,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763e0d6679b73f72879053",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e0d6679b73f72879aa4",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e0d6679b73f72879ba4",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-06-15T03:00:00Z",
+      "_revision" : "0b6ccf428f62bd1ffecc7c8d6f786c3a",
+      "business" : [ {
+        "_id" : "6476393cb67f0f3535b47a53",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T18:18:47.919Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 588.36,
+      "originalExpirationDate" : "2023-06-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "06/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-07-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-06-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64763e07838a19582c4a027f",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64763e07838a19582c49e84e",
+        "value" : 588.36,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64763e07838a19582c49f7c9",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774328,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T18:18:47.826Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T18:18:53.447Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T18:18:48.105Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64763e08838a19582c4a484e",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 103.83,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763e0d6679b73f7287906e",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e0d6679b73f72879a51",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e0d6679b73f72879ba1",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-06-15T03:00:00Z",
+      "_revision" : "6ac0764c5a6a8de533a64612cb9833fd",
+      "business" : [ {
+        "_id" : "6476393cb67f0f3535b47a53",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T18:18:48.134Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 103.83,
+      "originalExpirationDate" : "2023-06-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "06/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-07-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-06-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64763e08838a19582c4a58bb",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64763e08838a19582c4a4861",
+        "value" : 103.83,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64763e08838a19582c4a4ed2",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774329,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T18:19:05.968Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T18:19:10.600Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T18:19:05.970Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64763e19a43abf03e13e62e2",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 588.36,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763e1e92ec946c405158ef",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e1e92ec946c405170c3",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e1e92ec946c40518e7e",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-06-15T03:00:00Z",
+      "_revision" : "f935d80aa6a73b8cfa01338eb872e3df",
+      "business" : [ {
+        "_id" : "6476393cb67f0f3535b47a53",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T18:19:06.004Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 588.36,
+      "originalExpirationDate" : "2023-06-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "06/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-07-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-06-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64763e1aa43abf03e13e66a1",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64763e19a43abf03e13e62e3",
+        "value" : 588.36,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64763e19a43abf03e13e64fb",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774330,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T18:19:05.968Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T18:19:10.332Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T18:19:06.145Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64763e1aa43abf03e13e6d8e",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 103.83,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763e1e6679b73f729cc2eb",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e1e6679b73f729ce0f0",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763e1e6679b73f729d08d3",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-06-15T03:00:00Z",
+      "_revision" : "56496d55d32624673af276408bc1ce7f",
+      "business" : [ {
+        "_id" : "6476393cb67f0f3535b47a53",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T18:19:06.177Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 103.83,
+      "originalExpirationDate" : "2023-06-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "06/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-07-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-06-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64763e1aa43abf03e13e7143",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64763e1aa43abf03e13e6d8f",
+        "value" : 103.83,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64763e1aa43abf03e13e6fd8",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  } ], [ {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774325,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T18:02:12.145Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T18:02:16.304Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T18:02:12.148Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64763a24a43abf03e1bfb962",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 588.36,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763a2892ec946c407e2159",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763a2892ec946c407e222d",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763a2892ec946c407e22f6",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-06-15T03:00:00Z",
+      "_revision" : "e69c0c1ac101183e5295666d4ffe4f26",
+      "business" : [ {
+        "_id" : "64763a23a43abf03e1bf9bae",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T18:02:12.204Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 588.36,
+      "originalExpirationDate" : "2023-06-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "06/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-07-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-06-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64763a24a43abf03e1bfc6ca",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64763a24a43abf03e1bfb963",
+        "value" : 588.36,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64763a24a43abf03e1bfc45a",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774326,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T18:02:12.145Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64468a83a136845e345e151b",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-05-30T18:02:18.041Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T18:02:12.321Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "0c5898e447549c5539d268a87a5eae28",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64763a24a43abf03e1bfd556",
+        "turma" : {
+          "_id" : "642d9428ac3752026ea7b58c",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 103.83,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "64763a2943c6872756194f98",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763a2943c6872756197034",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64763a2943c6872756198e84",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-06-15T03:00:00Z",
+      "_revision" : "9db906abd003e80861a7e4274305bcc9",
+      "business" : [ {
+        "_id" : "64763a23a43abf03e1bf9bae",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T18:02:12.340Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 103.83,
+      "originalExpirationDate" : "2023-06-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "06/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-07-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-06-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "7f5f579c8d3187713a3c60a5ffa08d8e",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64763a24a43abf03e1bfd85f",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64763a24a43abf03e1bfd55d",
+        "value" : 103.83,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64763a24a43abf03e1bfd6f0",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  } ], [ ], [ {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774224,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T13:58:51.592Z",
+      "invoiceState" : {
+        "_id" : "5977c1a3ce027227c4269e36",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bd9006155edc0546192b07",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : false,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-26T19:52:36.535Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T13:58:51.605Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "1e0517319115ebccd8595a7c4324bdd7",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476011ba43abf03e11884af",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1799.37,
+      "accountPaymentData" : null,
+      "chargingActions" : null,
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "7e433210daa6fe7211aa7102b6181fe6",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T13:58:51.632Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1799.37,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476011ba43abf03e11887cc",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476011ba43abf03e11884b0",
+        "value" : 1799.37,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476011ba43abf03e11885ae",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : true
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774225,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T13:58:51.592Z",
+      "invoiceState" : {
+        "_id" : "5977c1a3ce027227c4269e36",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bd9006155edc0546192b07",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : false,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-26T19:52:36.630Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T13:58:51.756Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "1e0517319115ebccd8595a7c4324bdd7",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476011ba43abf03e118891e",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 317.54,
+      "accountPaymentData" : null,
+      "chargingActions" : null,
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "1051c957822d8277a5a901883625ee80",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T13:58:51.779Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 317.54,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "6407838090132239db64244e",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476011ba43abf03e1188af7",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476011ba43abf03e118891f",
+        "value" : 317.54,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476011ba43abf03e118898b",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : true
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774226,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:00:50.820Z",
+      "invoiceState" : {
+        "_id" : "5977c1a3ce027227c4269e36",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bd9006155edc0546192b07",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : false,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-26T19:52:36.711Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:00:50.829Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "1e0517319115ebccd8595a7c4324bdd7",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476019293e1f8106eb366ca",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1799.37,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6476019f6679b73f72942451",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6476019f6679b73f72943f92",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6476019f6679b73f72944c27",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "0bc32678223dfbe2ef32a0d38d8ad269",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:00:50.871Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1799.37,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476019293e1f8106eb391d5",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476019293e1f8106eb366f4",
+        "value" : 1799.37,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476019293e1f8106eb381e7",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : true
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774227,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:00:50.820Z",
+      "invoiceState" : {
+        "_id" : "5977c1a3ce027227c4269e36",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bd9006155edc0546192b07",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : false,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-26T19:52:36.784Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:00:51.050Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "1e0517319115ebccd8595a7c4324bdd7",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476019393e1f8106eb3ecde",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 317.54,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "647601a1d5ade442a26afefb",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "647601a1d5ade442a26b416f",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "647601a1d5ade442a26b4eb2",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "06b6317a1ae0de749d777b992ac30248",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:00:51.068Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 317.54,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476019393e1f8106eb4063c",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476019393e1f8106eb3ecf2",
+        "value" : 317.54,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476019393e1f8106eb3f5e3",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : true
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774228,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:02:51.915Z",
+      "invoiceState" : {
+        "_id" : "5977c001ce027227c4269e26",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-29T10:46:05.554Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:02:51.923Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476020bb67f0f35353ddfc2",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1799.37,
+      "accountPaymentData" : null,
+      "chargingActions" : null,
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "fb730c3d1bc99223f4f6f0c4f066a0a9",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 1,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "64750c155e2a3c68457fa531",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:02:51.965Z",
+      "lastCollectingDate" : "2023-06-29T10:34:23.854Z",
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1799.37,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : false,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476020bb67f0f35353df1df",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476020bb67f0f35353ddfc3",
+        "value" : 1799.37,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476020bb67f0f35353deac6",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774229,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:02:51.915Z",
+      "invoiceState" : {
+        "_id" : "5977c001ce027227c4269e26",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-29T10:45:16.667Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:02:52.099Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6476020cb67f0f35353e3101",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 317.54,
+      "accountPaymentData" : null,
+      "chargingActions" : null,
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "be2641a78c04129d7f885d84958b77d3",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 1,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "64750c155e2a3c68457fa531",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:02:52.111Z",
+      "lastCollectingDate" : "2023-06-29T10:33:40.080Z",
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 317.54,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : false,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6476020cb67f0f35353e3b08",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6476020cb67f0f35353e3111",
+        "value" : 317.54,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6476020cb67f0f35353e3400",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774230,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:05:23.321Z",
+      "invoiceState" : {
+        "_id" : "5977c001ce027227c4269e26",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-29T10:46:36.674Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:05:23.329Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "647602a3a43abf03e1634908",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 852.55,
+      "accountPaymentData" : null,
+      "chargingActions" : null,
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "60859f3ad3110a96d496794e27bdda93",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 1,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "64750c155e2a3c68457fa531",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:05:23.378Z",
+      "lastCollectingDate" : "2023-06-29T10:35:11.943Z",
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 852.55,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : false,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "647602a3a43abf03e1636437",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "647602a3a43abf03e1634925",
+        "value" : 852.55,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "647602a3a43abf03e1635d83",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774231,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:05:23.321Z",
+      "invoiceState" : {
+        "_id" : "5977c001ce027227c4269e26",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-29T10:46:53.575Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:05:23.537Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "647602a3a43abf03e163a5b1",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 150.45,
+      "accountPaymentData" : null,
+      "chargingActions" : null,
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "885028349a8fbef4709cdb9f1a0e6ddd",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 1,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "64750c155e2a3c68457fa531",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:05:23.576Z",
+      "lastCollectingDate" : "2023-06-29T10:35:29.390Z",
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 150.45,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : false,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "647602a3a43abf03e163b2c1",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "647602a3a43abf03e163a5b6",
+        "value" : 150.45,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "647602a3a43abf03e163aba9",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774232,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:07:02.325Z",
+      "invoiceState" : {
+        "_id" : "5977c1a3ce027227c4269e36",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bd9006155edc0546192b07",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : false,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-26T19:52:36.861Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:07:02.341Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "1e0517319115ebccd8595a7c4324bdd7",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64760306a43abf03e1b22d85",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1799.37,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6476030c43c6872756361a35",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6476030c43c6872756366661",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6476030d43c687275636975c",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "93804ee4de6a439a0628bbe7fc615e16",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:07:02.375Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1799.37,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64760306a43abf03e1b23cb9",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64760306a43abf03e1b22d98",
+        "value" : 1799.37,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64760306a43abf03e1b235f3",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : true
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 774233,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-05-30T14:07:02.325Z",
+      "invoiceState" : {
+        "_id" : "5977c1a3ce027227c4269e36",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bd9006155edc0546192b07",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "644692837388421932229a55",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : false,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-26T19:52:36.942Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-05-30T14:07:02.488Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "1e0517319115ebccd8595a7c4324bdd7",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64760306a43abf03e1b2566e",
+        "turma" : {
+          "_id" : "6446893c87a5e53cafc0dabe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 317.54,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6476031643c687275648ac40",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6476031643c687275648c210",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6476031643c687275648dd8a",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "a037df1c61514d41d2c80600c40b4712",
+      "business" : [ {
+        "_id" : "6476001da43abf03e16cc05c",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-05-30T14:07:02.500Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 317.54,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64760306a43abf03e1b26002",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64760306a43abf03e1b2566f",
+        "value" : 317.54,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64760306a43abf03e1b2587a",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : true
+    }
+  } ], [ {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775547,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-15T14:33:19.278Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-15T14:33:22.099Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-15T14:33:19.282Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "648b212fc8af1f570ac4afd7",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1405.22,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "648b21326deb3d5110cd5c30",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b21326deb3d5110cd6595",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b21326deb3d5110cd7372",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "da38168060c9bd26791c4518ef450576",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-15T14:33:19.913Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1405.22,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "648b212fc8af1f570ac71428",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "648b212fc8af1f570ac4b010",
+        "value" : 1405.22,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "648b212fc8af1f570ac6f94b",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775548,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-15T14:33:19.278Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-15T14:33:23.203Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-15T14:33:20.046Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "648b2130c8af1f570ac77491",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 247.98,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "648b21336deb3d5110cf61ab",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b21336deb3d5110cf75c3",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b21336deb3d5110cf803d",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "a698aedddb609fec4ea0fec5775a62db",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-15T14:33:20.061Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 247.98,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "648b2130c8af1f570ac781a0",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "648b2130c8af1f570ac7749d",
+        "value" : 247.98,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "648b2130c8af1f570ac77bae",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775549,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-15T14:34:46.354Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-15T14:34:52.297Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-15T14:34:46.359Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "648b2186154e341becfaadb0",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1405.22,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "648b218c17e6e4675cf834cb",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b218c17e6e4675cf86133",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b218c17e6e4675cf8841c",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "28c90d3977d6de7c83be5dcb0a2aad83",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-15T14:34:47.127Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1405.22,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "648b2187154e341becfcb6c9",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "648b2186154e341becfaaddd",
+        "value" : 1405.22,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "648b2187154e341becfc9ba7",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775550,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-15T14:34:46.354Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-15T14:34:52.387Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-15T14:34:47.505Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "648b2187154e341becfde20e",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 247.98,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "648b218c17e6e4675cf8b93a",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b218c17e6e4675cf8cbef",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b218c17e6e4675cf8feb1",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "b9eebb7f4e74e93a667752991efbcf50",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-15T14:34:47.544Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 247.98,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "648b2187154e341becfe2274",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "648b2187154e341becfde211",
+        "value" : 247.98,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "648b2187154e341becfdf5e3",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775552,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-15T20:01:16.823Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-15T20:01:18.857Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-15T20:01:16.829Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "648b6e0c87aa934ae66fc649",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1405.22,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "648b6e0e87aa934ae673e1e5",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b6e0e87aa934ae673f7f1",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b6e0e87aa934ae6740794",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "142dca6573be361a3c4413e7bc6582a6",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-15T20:01:17.360Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1405.22,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "648b6e0d87aa934ae671868a",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "648b6e0c87aa934ae66fc67b",
+        "value" : 1405.22,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "648b6e0d87aa934ae6717a98",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775553,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-15T20:01:16.823Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-15T20:01:20.968Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-15T20:01:17.759Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "648b6e0d87aa934ae6720225",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 247.98,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "648b6e1087aa934ae677af83",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b6e1087aa934ae677c278",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "648b6e1087aa934ae677e408",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "d9aa88b7b995e657602aa8b59573c896",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-15T20:01:17.810Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 247.98,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "648b6e0d87aa934ae67217d7",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "648b6e0d87aa934ae6720232",
+        "value" : 247.98,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "648b6e0d87aa934ae6721076",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775571,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-19T20:36:57.606Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-19T20:37:09.429Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-19T20:36:57.613Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6490bc6969ff983667e617f6",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1405.22,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6490bc758b767e2aadc544bf",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc758b767e2aadc57b85",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc758b767e2aadc58e2e",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "40bc7c5e142bc4168ed06e7ba8c45383",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-19T20:36:57.820Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1405.22,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6490bc6969ff983667e65e11",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6490bc6969ff983667e617f7",
+        "value" : 1405.22,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6490bc6969ff983667e65b5a",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775572,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-19T20:36:57.606Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-19T20:37:09.457Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-19T20:36:57.927Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6490bc6969ff983667e6657d",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 247.98,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6490bc758b767e2aadc54437",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc758b767e2aadc58a3e",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc758b767e2aadc59fae",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "286e56a158164a6ecd5d2dea6c2229c1",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-19T20:36:57.939Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 247.98,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6490bc6969ff983667e667b7",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6490bc6969ff983667e6657f",
+        "value" : 247.98,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6490bc6969ff983667e66642",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775573,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-19T20:37:18.517Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-19T20:37:21.385Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-19T20:37:18.519Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "SERVICE",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6490bc7e8b767e2aadd3d35a",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 1405.22,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6490bc8151ec6d7f95bc11a8",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc8151ec6d7f95bc2248",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc8151ec6d7f95bc28ce",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "ff4fe1d2457a2f9c4fb01309515aeedd",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-19T20:37:18.541Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1405.22,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6490bc7e8b767e2aadd3e4ee",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6490bc7e8b767e2aadd3d363",
+        "value" : 1405.22,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6490bc7e8b767e2aadd3dda7",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 775574,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-06-19T20:37:18.517Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "643efa00a5014266d8580117",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-06-19T20:37:21.383Z",
+      "_protected" : false,
+      "fine" : null,
+      "interest" : null,
+      "previsionRepassDate" : "2023-06-19T20:37:18.731Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : true,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "a0d3bb387571ec24cdafc2931ad603aa",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "6490bc7e8b767e2aadd404b1",
+        "turma" : {
+          "_id" : "642d93ef2df8852de0104afe",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 247.98,
+      "accountPaymentData" : null,
+      "chargingActions" : [ {
+        "_id" : "6490bc8151ec6d7f95bc11a7",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc8151ec6d7f95bc1eba",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6490bc8151ec6d7f95bc2408",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-15T03:00:00Z",
+      "_revision" : "d59727f7176e04e0f2f5dfaf6fa0d632",
+      "business" : [ {
+        "_id" : "648b20acc8af1f570a4bb244",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "845d539de644bebeb98627ae2441bf04",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-06-19T20:37:18.750Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 247.98,
+      "originalExpirationDate" : "2023-05-15T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "644169458e806e021ffc6cdc",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-15T03:00:00Z",
+        "usageLot" : null,
+        "contract" : null,
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-15T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "d2504205670497e956bb64fc84ba8996",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6490bc7e8b767e2aadd4108a",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6490bc7e8b767e2aadd404bf",
+        "value" : 247.98,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6490bc7e8b767e2aadd407ff",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  } ], [ {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 556214,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-04-12T03:00:00.527Z",
+      "invoiceState" : {
+        "_id" : "5977c246ce027227c4269e3a",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63c5547a8223896aa0bd4227",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "64340399899a581f26510948",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-07-03T17:25:09.710Z",
+      "_protected" : false,
+      "fine" : 0.0,
+      "interest" : 0.0,
+      "previsionRepassDate" : "2023-06-13T03:00:00Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : false,
+        "student" : null,
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : {
+          "_id" : "64a304732753452c91b0ad9a",
+          "name" : "recibo_financeiro.pdf",
+          "contentText" : null,
+          "pendingContentExtraction" : true,
+          "contentType" : "application/pdf; charset=utf-8",
+          "length" : 39234,
+          "hash" : "94179472b7709b4c184419eea9fb3adf"
+        },
+        "_id" : "6462247dc65b3764c0a4f5bc",
+        "turma" : null,
+        "cancellationDate" : null
+      },
+      "value" : 1143.59,
+      "accountPaymentData" : {
+        "_id" : "64340e4fadfb852a6ce59a54",
+        "_classId" : "5972519fce027221e445349f"
+      },
+      "chargingActions" : [ {
+        "_id" : "6436e2cdda46080fb9b3a83b",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6436e2cdda46080fb9b3abb0",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6436e2cdda46080fb9b3b03f",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6436e2cdda46080fb9b3b5e3",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "6436e2cdda46080fb9b3bc3d",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-05-12T03:00:00Z",
+      "_revision" : "4041b3ba795521ca114c2de84b29a2be",
+      "business" : [ {
+        "_id" : "6434159d899a581f262b4970",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 4,
+      "_classRevision" : "5fdba4aa29614f0266cbd31ba057f86a",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "5d5f14ed79275e2ddd0c1464",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-04-10T13:56:46.017Z",
+      "lastCollectingDate" : "2023-07-03T17:25:09.700Z",
+      "usedAgreements" : [ {
+        "_id" : "63ff899589df2b065a8e0fa2",
+        "_classId" : "597241b9ce027221e44533d9"
+      } ],
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 1143.59,
+      "originalExpirationDate" : "2023-05-12T03:00:00Z",
+      "repassDate" : "2023-08-04T03:00:00Z",
+      "referenceMonth" : "05/2023",
+      "allowAutomaticCollecting" : false,
+      "paymentMethod" : {
+        "_id" : "63ff89aaab43ca7cdec25406",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-11T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "6434159d899a581f262b4970",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-12T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : {
+            "_id" : "64340e4eadfb852a6ce4c013",
+            "_classId" : "6144e48a4a1c697282917fa8"
+          },
+          "productIdSL" : null,
+          "parcelNumber" : "1",
+          "indicatedsName" : null,
+          "Class" : {
+            "_id" : "642de0bb2df8852de0c3d806",
+            "_classId" : "63e298e861d0bc1bbadd9e69"
+          },
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6436e2c7953d50669d9a0681",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6436e2c7953d50669d9a0680",
+        "value" : 1011.5,
+        "events" : [ ]
+      }, {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-06-11T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "6434159d899a581f262b4970",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-05-12T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : {
+            "_id" : "64340e4eadfb852a6ce4c013",
+            "_classId" : "6144e48a4a1c697282917fa8"
+          },
+          "productIdSL" : null,
+          "parcelNumber" : "1",
+          "indicatedsName" : null,
+          "Class" : {
+            "_id" : "642de0bb2df8852de0c3d806",
+            "_classId" : "63e298e861d0bc1bbadd9e69"
+          },
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "6436e2c7953d50669d9a0683",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "6436e2c7953d50669d9a0682",
+        "value" : 178.5,
+        "events" : [ ]
+      }, {
+        "product" : null,
+        "endDate" : "2023-07-03T17:25:07.426Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "6434159d899a581f262b4970",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Taxa",
+        "beginDate" : "2023-07-03T17:25:07.426Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64a304742753452c91b0badf",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64a304742753452c91b0b7fe",
+        "value" : -46.41,
+        "events" : null
+      } ],
+      "paidValue" : 1190.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "6434159e899a581f262b8fb3",
+      "paymentDate" : "2023-07-03T03:00:00Z",
+      "ignoreFiscalDocument" : false
+    }
+  } ], [ {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 777712,
+      "externalCode" : "1689348376653x260253968024019000",
+      "values" : null,
+      "generationDate" : "2023-07-17T13:17:45.536Z",
+      "invoiceState" : {
+        "_id" : "5977c246ce027227c4269e3a",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "6446848e87a5e53cafec1013",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-07-17T13:36:41.418Z",
+      "_protected" : false,
+      "fine" : 0.0,
+      "interest" : 0.0,
+      "previsionRepassDate" : "2023-08-15T03:00:00Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : false,
+        "student" : {
+          "_id" : "64b53ef102a8647671d9dd79",
+          "_classId" : "6144addd4a1c6972827038cc"
+        },
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : true,
+        "originalPaymentMethod" : {
+          "_id" : "63ff89aaab43ca7cdec25406",
+          "_classId" : "597244b8ce027221e44533fe"
+        },
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : {
+          "_id" : "64b542b9bbdd9f561c9e2e39",
+          "name" : "recibo_financeiro.pdf",
+          "contentText" : null,
+          "pendingContentExtraction" : true,
+          "contentType" : "application/pdf; charset=utf-8",
+          "length" : 39239,
+          "hash" : "0d1195b448d57f78a4a82ee29d04355a"
+        },
+        "_id" : "64b53f7a14463a32d162ca9c",
+        "turma" : null,
+        "cancellationDate" : null
+      },
+      "value" : 961.0,
+      "accountPaymentData" : {
+        "_id" : "6448bbfd8fe84f171c312100",
+        "_classId" : "5972519fce027221e445349f"
+      },
+      "chargingActions" : [ {
+        "_id" : "64b53f84aca70a5a1da6191f",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64b53f84aca70a5a1da61973",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64b53f84aca70a5a1da619c7",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64b53f84aca70a5a1da61a1b",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64b53f84aca70a5a1da61a6f",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-07-14T03:00:00Z",
+      "_revision" : "e7d8a5211ff9e1af11de10b2f14ce96a",
+      "business" : [ {
+        "_id" : "64b53f6a14463a32d15bed58",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 2,
+      "_classRevision" : "c4b367ffc5f992634d4026fea1399f84",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "644ab66ab7a7ee1bac09e5c4",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-07-17T13:17:46.134Z",
+      "lastCollectingDate" : "2023-07-17T13:31:38.099Z",
+      "usedAgreements" : [ {
+        "_id" : "63ff899589df2b065a8e0fa2",
+        "_classId" : "597241b9ce027221e44533d9"
+      } ],
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 961.0,
+      "originalExpirationDate" : "2023-07-14T03:00:00Z",
+      "repassDate" : "2023-08-18T03:00:00Z",
+      "referenceMonth" : "07/2023",
+      "allowAutomaticCollecting" : false,
+      "paymentMethod" : {
+        "_id" : "63ff89aaab43ca7cdec25406",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-08-01T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "64b53f6a14463a32d15bed58",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-07-01T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : {
+            "_id" : "64b53ef402a8647671daa1de",
+            "_classId" : "6144e48a4a1c697282917fa8"
+          },
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64b53f7a14463a32d162caa0",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64b53f7a14463a32d162ca9f",
+        "value" : 850.0,
+        "events" : null
+      }, {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-08-01T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "64b53f6a14463a32d15bed58",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-07-01T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : {
+            "_id" : "64b53ef402a8647671daa1de",
+            "_classId" : "6144e48a4a1c697282917fa8"
+          },
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64b53f7a14463a32d162caa2",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64b53f7a14463a32d162caa1",
+        "value" : 150.0,
+        "events" : null
+      }, {
+        "product" : null,
+        "endDate" : "2023-07-17T13:31:32.422Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "64b53f6a14463a32d15bed58",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Taxa",
+        "beginDate" : "2023-07-17T13:31:32.422Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64b542b9bbdd9f561c9e8214",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64b542b9bbdd9f561c9e7cb5",
+        "value" : -39.0,
+        "events" : null
+      } ],
+      "paidValue" : 1000.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64b53f7a14463a32d162ea7f",
+      "paymentDate" : "2023-07-17T03:00:00Z",
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 777713,
+      "externalCode" : "1689348378406x550106675692635400",
+      "values" : null,
+      "generationDate" : "2023-07-17T13:17:46.236Z",
+      "invoiceState" : {
+        "_id" : "6491c648a685ac415680d05e",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "63bed120155edc054618671c",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "6446848e87a5e53cafec1013",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-07-17T13:17:46.254Z",
+      "_protected" : false,
+      "fine" : 0.0,
+      "interest" : 0.0,
+      "previsionRepassDate" : "2023-07-17T13:17:46.244Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : false,
+        "student" : {
+          "_id" : "64b53ef102a8647671d9dd79",
+          "_classId" : "6144addd4a1c6972827038cc"
+        },
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : null,
+        "program" : null,
+        "enrollment" : null,
+        "isEntryInvoice" : true,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64b53f7a14463a32d162f848",
+        "turma" : null,
+        "cancellationDate" : null
+      },
+      "value" : 2315.0,
+      "accountPaymentData" : {
+        "_id" : "64b53f6814463a32d15abb2b",
+        "_classId" : "5972519fce027221e445349f"
+      },
+      "chargingActions" : null,
+      "expirationDate" : "2023-07-14T03:00:00Z",
+      "_revision" : "3400d2b0acd8a3d5662c483d92003272",
+      "business" : [ {
+        "_id" : "64b53f6a14463a32d15bed58",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "c4b367ffc5f992634d4026fea1399f84",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "645a5a9b738515621f01a49e",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-07-17T13:17:46.254Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 2315.0,
+      "originalExpirationDate" : "2023-07-14T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "07/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "6447ce8f18490a07d7be2020",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63fd2dd4463c7a3509738b67",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-08-01T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "64b53f6a14463a32d15bed58",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-07-01T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "68f7923ba538108b5a98040669c2e314",
+          "enrollment" : {
+            "_id" : "64b53ef402a8647671daa1de",
+            "_classId" : "6144e48a4a1c697282917fa8"
+          },
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64b53f7a14463a32d162f84a",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64b53f7a14463a32d162f849",
+        "value" : 1967.75,
+        "events" : null
+      }, {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-08-01T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "64b53f6a14463a32d15bed58",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-07-01T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "68f7923ba538108b5a98040669c2e314",
+          "enrollment" : {
+            "_id" : "64b53ef402a8647671daa1de",
+            "_classId" : "6144e48a4a1c697282917fa8"
+          },
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64b53f7a14463a32d162f84c",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64b53f7a14463a32d162f84b",
+        "value" : 347.25,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64b53f7a14463a32d162f87c",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  }, {
+    "enrollment" : {
+      "_creationUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "code" : 777714,
+      "externalCode" : null,
+      "values" : null,
+      "generationDate" : "2023-07-17T13:31:36.730Z",
+      "invoiceState" : {
+        "_id" : "6408b739b9df8e2c4e3ac79d",
+        "_classId" : "5977bb25ce027227c4269df3"
+      },
+      "_lastUpdateUser" : {
+        "_id" : "000000000002000000000001",
+        "_classId" : "000000000000000000000002"
+      },
+      "payer" : {
+        "_id" : "6446848e87a5e53cafec1013",
+        "_classId" : "59136a2c116a1f0f8819ecbb"
+      },
+      "originalInvoices" : null,
+      "pendingFiscalDocument" : null,
+      "_publishedObject" : null,
+      "_lastUpdateDate" : "2023-07-17T13:31:37.919Z",
+      "_protected" : false,
+      "fine" : 0.0,
+      "interest" : 0.0,
+      "previsionRepassDate" : "2023-09-28T03:00:00Z",
+      "currency" : {
+        "_id" : "591b1686116a1f22487aa921",
+        "_classId" : "000000000000000000000059"
+      },
+      "additionalData" : {
+        "revalidarBoletoCondition" : false,
+        "LEGADO" : false,
+        "student" : {
+          "_id" : "64b53ef102a8647671d9dd79",
+          "_classId" : "6144addd4a1c6972827038cc"
+        },
+        "id_recebimento_recb" : null,
+        "cancellationReason" : null,
+        "currentRemittance" : "**Data e hora:** N/A\n**Retorno:** N/A\n",
+        "dadosSuperlogica" : null,
+        "_classRevision" : "906edebc27fb38fc8abc08e86051dbf6",
+        "invoiceComponentType" : "PRODUCT",
+        "program" : null,
+        "enrollment" : {
+          "_id" : "64b53ef402a8647671daa1de",
+          "_classId" : "6144e48a4a1c697282917fa8"
+        },
+        "isEntryInvoice" : false,
+        "originalPaymentMethod" : null,
+        "paymentMethodUsed" : null,
+        "contractId" : null,
+        "_class" : {
+          "_id" : "63dd5bec7310c1338c740357",
+          "_classId" : "000000000000000000000000"
+        },
+        "paymentReceipt" : null,
+        "_id" : "64b542b8baf283685cbb2db3",
+        "turma" : {
+          "_id" : "642dd8beb2cae278eb9d7456",
+          "_classId" : "63e298e861d0bc1bbadd9e69"
+        },
+        "cancellationDate" : null
+      },
+      "value" : 497.25,
+      "accountPaymentData" : {
+        "_id" : "6448bbfd8fe84f171c312100",
+        "_classId" : "5972519fce027221e445349f"
+      },
+      "chargingActions" : [ {
+        "_id" : "64b542b9baf283685cbbb298",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64b542b9baf283685cbbb97f",
+        "_classId" : "60feebc6b250375797c5f046"
+      }, {
+        "_id" : "64b542b9baf283685cbbc714",
+        "_classId" : "60feebc6b250375797c5f046"
+      } ],
+      "expirationDate" : "2023-08-27T03:00:00Z",
+      "_revision" : "42e7b023dcba73cc364f63d0a872259b",
+      "business" : [ {
+        "_id" : "64b53f6a14463a32d15bed58",
+        "_classId" : "597265a4ce027221e445351a"
+      } ],
+      "paymentCondition" : null,
+      "collectingCount" : 0,
+      "_classRevision" : "c4b367ffc5f992634d4026fea1399f84",
+      "prepaymentDiscountDetails" : null,
+      "classification" : {
+        "_id" : "640778ba90132239dbe4e173",
+        "_classId" : "5d5f14a679275e2ddd0c1394"
+      },
+      "_creationDate" : "2023-07-17T13:31:36.790Z",
+      "lastCollectingDate" : null,
+      "usedAgreements" : null,
+      "beneficiary" : {
+        "_id" : "63a0dde15bffe0728b47927f",
+        "_classId" : "591365fef5ca53284cd8d159"
+      },
+      "valueWithoutFineInterest" : 497.25,
+      "originalExpirationDate" : "2023-08-27T03:00:00Z",
+      "repassDate" : null,
+      "referenceMonth" : "08/2023",
+      "allowAutomaticCollecting" : true,
+      "paymentMethod" : {
+        "_id" : "63ff89aaab43ca7cdec25406",
+        "_classId" : "597244b8ce027221e44533fe"
+      },
+      "invoiceItem" : [ {
+        "product" : {
+          "_id" : "63dd70b4a45d3a20bfc64305",
+          "_classId" : "5cb5bc9721dc1273415873e9"
+        },
+        "endDate" : "2023-09-27T03:00:00Z",
+        "usageLot" : null,
+        "contract" : {
+          "_id" : "64b53f6a14463a32d15bed58",
+          "_classId" : "597265a4ce027221e445351a"
+        },
+        "discount" : null,
+        "_classRevision" : "643f54930a1ea5df6b320bbd847b6e13",
+        "type" : "Componente",
+        "beginDate" : "2023-08-27T03:00:00Z",
+        "invoicingEventItem" : null,
+        "purchaseOrder" : null,
+        "currency" : {
+          "_id" : "591b1686116a1f22487aa921",
+          "_classId" : "000000000000000000000059"
+        },
+        "totalUsage" : 0.0,
+        "_class" : {
+          "_id" : "5977b9e6ce027227c4269de6",
+          "_classId" : "000000000000000000000000"
+        },
+        "additionalData" : {
+          "endDateOfEnrollmentLocking" : null,
+          "id_recebimento_recb" : null,
+          "description" : null,
+          "_classRevision" : "120c02613e2969f49a010137bdbde8fe",
+          "enrollment" : null,
+          "productIdSL" : null,
+          "parcelNumber" : null,
+          "indicatedsName" : null,
+          "Class" : null,
+          "_class" : {
+            "_id" : "63fe1181d8df1236f43a9f32",
+            "_classId" : "000000000000000000000000"
+          },
+          "_id" : "64b542b8baf283685cbb338e",
+          "invoiceExternalCode" : null,
+          "cancelationReason" : null
+        },
+        "_id" : "64b542b8baf283685cbb2dba",
+        "value" : 497.25,
+        "events" : null
+      } ],
+      "paidValue" : 0.0,
+      "_class" : {
+        "_id" : "5977bdd4ce027227c4269e11",
+        "_classId" : "000000000000000000000000"
+      },
+      "_id" : "64b542b8baf283685cbb31d5",
+      "paymentDate" : null,
+      "ignoreFiscalDocument" : false
+    }
+  } ] ]

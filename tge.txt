@@ -1,0 +1,34 @@
+Multidisciplinar em Oncologia
+
+Oncologia Experimental
+
+BIPP PSICOFARMACOLOGIA
+
+Fisioterapia Adulta em Terapia Intensiva
+
+	// }elseif(in_array($ID_produto, $produtos_able)) {
+	// 	// gravaTXT138("\n------------\nEstá na MEDPOS\n------------------------------------\n");
+	// 	// ultimo vendedor que recebeu uma oportunidade esta no array?
+	// 	$contador = 0;
+	// 	$ultimo_vendedor_estaNoArray = false;
+	// 	$tamanho_do_array = count($vendedores_able)-1; // conta o numero de vendedores ATENÇÃO a contagem do COUNT INICIA EM 1 E NÃO EM ZERO
+// 	// Percorro todas as posicoes do array em busca do id do ultimo vendedor que recebeu para pegar o proximo
+// 	foreach ($vendedores_able as $value) {
+// 		if($value == $ultimo_vendedor_queRecebeu_card){
+// 			$ultimo_vendedor_estaNoArray = true;
+// 			// Conto a posicao dele mais um se for menor que o tamenho do array de vendedores
+// 			if($contador < $tamanho_do_array){
+// 				// Conto a posicao do array mais um
+// 				$vendedor_eleito = $vendedores_able[$contador+1];
+// 			}else{
+// 				// Pego a primeira posicao do array
+// 				$vendedor_eleito = $vendedores_able[0];
+// 			}
+// 		}else{
+// 			$contador++;
+// 		}
+// 	}
+// 	// Se o ultimo vendedor a receber o produto nao estiver no array eu delego para a primeira posicao
+// 	if(!$ultimo_vendedor_estaNoArray){
+// 		$vendedor_eleito = $vendedores_able[0];	
+	// 	}
